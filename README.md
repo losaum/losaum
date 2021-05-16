@@ -1,5 +1,4 @@
 # Thiago Berticelli Ló
-[![CV Badge](http://lattes.cnpq.br/6935444785347377)]]
 
 Professor, Researcher, and Technology Enthusiast.
 

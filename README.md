@@ -5,15 +5,15 @@ Professor, Researcher, and Technology Enthusiast.
 ## Profile
 Computer Science and Control and Automation Engineering Professor at Instituto Federal do Paraná.
 
-Mestrado em Sistemas Embarcados:
+- Mestrado em Sistemas Embarcados:
 Universidade Federal do Rio Grande do Sul - UFRGS (2012).
 Título da dissertação: Virtualização de Hardware e Exploração da Memória de Contexto em Arquiteturas Reconfiguráveis.
 
-Graduação em Ciência da Computação:
+- Graduação em Ciência da Computação:
 Universidade Estadual do Oeste do Paraná - Unioeste (2007).
 Título da monografia: Projeto de Sistemas Digitais Utilizando FPGA.
-
-Graduação em Engenharia de Controle e Automação:
+ 
+- Graduação em Engenharia de Controle e Automação:
 Faculdade Assis Gurgacz - FAG (2006).
 Título da monografia: Projeto e Construção de um Datalogger Microprocessado com Entradas Analógicas Remotas.
 

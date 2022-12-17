@@ -23,15 +23,14 @@ Título da monografia: Projeto e Construção de um Datalogger Microprocessado c
 
 [Research CV](http://lattes.cnpq.br/6935444785347377)
 ## Interests
-* Sistemas Embarcados.
-* Sistemas Reconfiguráveis.
-* Automação Industrial.
-* Domótica.
-* Robótica.
-* Segurança da Informação.
-* Machine Learning.
-* Agricultura de Precisão.
-* Sensoriamento Remoto
+* Machine Learning
+* Artificial Intelligence
+* Data Science
+* Remote Sensing
+* Information Security
+* Embedded Systems
+* Robotics
+* Industrial Automation
 
 <!--
 **losaum/losaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,6 +5,10 @@ Professor, Researcher, and Technology Enthusiast.
 ## Profile
 Computer Science and Control and Automation Engineering Professor at Instituto Federal do Paraná.
 
+- Doutorado em Engenharia Agrícola:
+Universidade Estadual do Oeste do Paraná - Unioeste (2022).
+Título: Mapeamento de uso e cobertura da terra utilizando sensoriamento remoto e redes neurais convolucionais
+
 - Mestrado em Sistemas Embarcados:
 Universidade Federal do Rio Grande do Sul - UFRGS (2012).
 Título da dissertação: Virtualização de Hardware e Exploração da Memória de Contexto em Arquiteturas Reconfiguráveis.

@@ -3,7 +3,9 @@
 Professor, Researcher, and Technology Enthusiast.
 
 ## Profile
-Computer Science and Control and Automation Engineering Professor at Instituto Federal do Paraná.
+Computer Science and Control and Automation Engineering 
+
+Professor at Instituto Federal do Paraná.
 
 - Doutorado em Engenharia Agrícola:
 Universidade Estadual do Oeste do Paraná - Unioeste (2022).
